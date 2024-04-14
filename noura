@@ -1,0 +1,301 @@
+	Unnamed: 0	Age	Gender	Occupation	Days_Indoors	Growing_Stress	Quarantine_Frustrations	Changes_Habits	Mental_Health_History	Weight_Change	Mood_Swings	Coping_Struggles	Work_Interest	Social_Weakness
+0	465	20-25	Female	Housewife	15-30 days	No	No	Yes	Yes	Yes	Low	Yes	Yes	Yes
+1	707	25-30	Male	Others	31-60 days	No	Yes	Yes	Yes	Yes	Low	No	Yes	Yes
+2	548	30-Above	Male	Corporate	More than 2 months	No	Yes	No	Yes	No	High	Yes	Yes	Yes
+3	397	25-30	Female	Student	Go out Every day	Yes	Yes	No	No	Yes	High	No	No	No
+4	638	30-Above	Male	Housewife	1-14 days	No	Yes	Yes	Yes	No	Medium	No	Yes	Yes
+5	634	25-30	Female	Student	Go out Every day	No	No	No	Yes	Yes	High	Yes	No	No
+6	27	20-25	Male	Student	1-14 days	Yes	No	Yes	No	Yes	High	Yes	Yes	No
+7	760	16-20	Male	Housewife	Go out Every day	No	Yes	Yes	No	No	Low	Yes	No	Yes
+8	130	20-25	Female	Student	More than 2 months	Yes	No	No	No	No	Low	Yes	Yes	Yes
+9	810	25-30	Male	Student	Go out Every day	Yes	No	Yes	No	Yes	High	No	Yes	No
+10	606	16-20	Female	Housewife	1-14 days	Yes	Yes	Yes	Yes	No	Medium	No	No	Yes
+11	654	20-25	Male	Business	Go out Every day	Yes	Yes	No	Yes	Yes	Medium	No	Yes	Yes
+12	681	30-Above	Male	Others	31-60 days	Yes	Yes	Yes	No	No	High	No	Yes	Yes
+13	39	30-Above	Female	Housewife	Go out Every day	Yes	Yes	No	Yes	Yes	High	Yes	Yes	Yes
+14	352	16-20	Female	Business	31-60 days	Yes	No	Yes	Yes	Yes	High	No	Yes	No
+15	775	20-25	Female	Housewife	Go out Every day	Yes	Yes	Yes	Yes	Yes	Low	Yes	Yes	Yes
+16	258	16-20	Female	Corporate	31-60 days	No	Yes	No	Yes	Yes	High	No	No	Yes
+17	182	16-20	Male	Corporate	More than 2 months	Yes	Yes	Yes	Yes	Yes	Low	No	Yes	Yes
+18	163	25-30	Female	Business	Go out Every day	Yes	Yes	Yes	Yes	Yes	Low	Yes	No	No
+19	542	16-20	Male	Student	31-60 days	No	No	Yes	Yes	Yes	High	Yes	Yes	No
+20	453	30-Above	Female	Business	31-60 days	Yes	No	Yes	Yes	Yes	High	Yes	No	Yes
+21	785	30-Above	Male	Housewife	31-60 days	Yes	Yes	Yes	No	Yes	High	No	No	Yes
+22	326	30-Above	Female	Business	15-30 days	Yes	Yes	Yes	Yes	No	High	Yes	Yes	Yes
+23	744	16-20	Female	Housewife	15-30 days	Yes	No	No	Yes	No	Medium	Yes	No	Yes
+24	306	25-30	Male	Business	15-30 days	Yes	Yes	Yes	Yes	No	Medium	No	Yes	Yes
+25	261	16-20	Female	Corporate	31-60 days	Yes	Yes	Yes	Yes	Yes	Medium	No	Yes	Yes
+26	342	30-Above	Male	Corporate	Go out Every day	No	No	No	Yes	Yes	Low	Yes	Yes	Yes
+27	730	30-Above	Female	Others	1-14 days	Yes	Yes	No	No	No	High	Yes	Yes	Yes
+28	609	30-Above	Male	Others	More than 2 months	Yes	No	Yes	No	Yes	Low	No	Yes	Yes
+29	459	20-25	Female	Housewife	31-60 days	Yes	Yes	Yes	Yes	Yes	Low	No	Yes	Yes
+30	505	25-30	Male	Business	31-60 days	No	Yes	Yes	Yes	Yes	Low	No	Yes	Yes
+31	62	20-25	Female	Business	More than 2 months	No	No	Yes	Yes	No	Low	No	No	Yes
+32	422	25-30	Female	Housewife	1-14 days	Yes	No	Yes	Yes	No	Low	No	No	Yes
+33	533	20-25	Male	Business	1-14 days	Yes	No	No	No	Yes	Low	Yes	Yes	No
+34	512	16-20	Male	Housewife	31-60 days	Yes	Yes	No	Yes	Yes	High	Yes	Yes	Yes
+35	191	25-30	Female	Others	15-30 days	Yes	Yes	Yes	No	No	Low	No	Yes	Yes
+36	60	16-20	Female	Housewife	Go out Every day	No	Yes	Yes	Yes	Yes	Low	No	Yes	No
+37	72	25-30	Female	Corporate	More than 2 months	Yes	No	Yes	Yes	Yes	Low	Yes	No	Yes
+38	529	20-25	Female	Others	31-60 days	Yes	No	No	No	Yes	Medium	Yes	Yes	Yes
+39	687	30-Above	Male	Student	15-30 days	Yes	No	Yes	Yes	Yes	High	No	Yes	No
+40	298	20-25	Female	Corporate	31-60 days	No	Yes	Yes	No	No	High	Yes	No	Yes
+41	484	30-Above	Female	Corporate	15-30 days	Yes	Yes	Yes	No	No	High	No	Yes	No
+42	624	20-25	Female	Others	31-60 days	Yes	Yes	No	Yes	No	High	No	No	Yes
+43	757	20-25	Female	Corporate	31-60 days	Yes	Yes	No	Yes	Yes	Medium	Yes	Yes	Yes
+44	657	30-Above	Female	Others	More than 2 months	No	Yes	No	Yes	No	Low	No	Yes	No
+45	267	30-Above	Male	Student	15-30 days	No	No	Yes	Yes	Yes	Low	No	Yes	Yes
+46	415	16-20	Female	Others	1-14 days	No	No	Yes	Yes	Yes	Low	Yes	Yes	Yes
+47	32	25-30	Female	Business	1-14 days	Yes	No	No	No	Yes	Medium	No	No	Yes
+48	522	20-25	Female	Student	Go out Every day	Yes	No	Yes	Yes	No	Medium	Yes	No	Yes
+49	449	20-25	Female	Corporate	31-60 days	Yes	Yes	Yes	Yes	Yes	High	No	Yes	Yes
+50	75	20-25	Female	Business	31-60 days	Yes	Yes	Yes	Yes	Yes	Low	Yes	Yes	Yes
+51	737	25-30	Female	Housewife	15-30 days	Yes	No	Yes	No	Yes	Low	No	No	No
+52	447	20-25	Male	Student	1-14 days	Yes	Yes	Yes	No	Yes	High	No	Yes	Yes
+53	752	30-Above	Male	Business	1-14 days	No	Yes	Yes	No	Yes	Low	Yes	No	Yes
+54	510	16-20	Male	Corporate	1-14 days	Yes	No	Yes	Yes	Yes	High	No	No	Yes
+55	262	30-Above	Female	Business	31-60 days	Yes	Yes	No	No	Yes	High	No	Yes	Yes
+56	201	25-30	Male	Student	1-14 days	Yes	Yes	Yes	Yes	Yes	High	Yes	No	No
+57	450	30-Above	Female	Business	31-60 days	Yes	Yes	No	Yes	Yes	Low	No	Yes	Yes
+58	117	16-20	Female	Business	1-14 days	No	No	Yes	Yes	Yes	High	No	Yes	Yes
+59	569	16-20	Female	Corporate	Go out Every day	Yes	Yes	Yes	Yes	Yes	Medium	Yes	Yes	Yes
+60	223	20-25	Male	Student	More than 2 months	Yes	No	Yes	Yes	No	High	No	No	Yes
+61	133	30-Above	Male	Housewife	31-60 days	Yes	Yes	Yes	Yes	Yes	Low	Yes	Yes	Yes
+62	795	25-30	Male	Student	Go out Every day	Yes	Yes	Yes	No	Yes	High	Yes	Yes	No
+63	596	16-20	Female	Student	15-30 days	No	No	Yes	Yes	Yes	High	No	Yes	Yes
+64	29	30-Above	Female	Student	31-60 days	No	Yes	No	Yes	No	Low	No	No	Yes
+65	171	20-25	Male	Corporate	More than 2 months	Yes	Yes	Yes	Yes	Yes	Medium	No	No	Yes
+66	518	20-25	Female	Others	More than 2 months	No	No	No	Yes	No	High	No	No	Yes
+67	249	30-Above	Male	Housewife	Go out Every day	No	Yes	Yes	No	Yes	Medium	No	Yes	Yes
+68	754	20-25	Female	Student	31-60 days	Yes	Yes	Yes	Yes	Yes	Low	Yes	Yes	No
+69	275	20-25	Female	Student	Go out Every day	No	No	Yes	Yes	Yes	High	Yes	Yes	Yes
+70	626	20-25	Male	Student	31-60 days	Yes	Yes	Yes	No	No	Low	Yes	Yes	Yes
+71	675	16-20	Female	Housewife	1-14 days	Yes	Yes	Yes	Yes	Yes	Low	Yes	No	Yes
+72	643	25-30	Female	Student	Go out Every day	Yes	Yes	No	Yes	Yes	Medium	No	Yes	No
+73	646	30-Above	Male	Corporate	31-60 days	Yes	No	Yes	Yes	No	Medium	No	Yes	No
+74	801	16-20	Male	Housewife	Go out Every day	No	Yes	No	Yes	Yes	Medium	No	No	Yes
+75	294	25-30	Female	Student	More than 2 months	Yes	Yes	No	Yes	Yes	Low	No	No	Yes
+76	649	20-25	Female	Housewife	15-30 days	No	No	No	Yes	Yes	High	No	No	No
+77	535	16-20	Male	Corporate	Go out Every day	Yes	Yes	No	No	No	Medium	Yes	Yes	No
+78	597	25-30	Female	Business	More than 2 months	No	Yes	Yes	Yes	No	Low	Yes	Yes	Yes
+79	611	25-30	Female	Corporate	1-14 days	No	Yes	Yes	Yes	Yes	High	Yes	No	Yes
+80	460	16-20	Male	Housewife	31-60 days	No	Yes	Yes	Yes	Yes	Low	Yes	Yes	Yes
+81	482	25-30	Female	Business	15-30 days	No	Yes	Yes	Yes	Yes	High	No	Yes	No
+82	136	20-25	Male	Others	31-60 days	Yes	Yes	No	No	Yes	Medium	Yes	Yes	Yes
+83	479	30-Above	Male	Housewife	Go out Every day	Yes	Yes	Yes	No	Yes	Low	No	Yes	Yes
+84	300	25-30	Male	Housewife	1-14 days	Yes	Yes	Yes	No	Yes	Low	No	Yes	No
+85	331	20-25	Male	Student	More than 2 months	No	Yes	No	No	No	Low	Yes	Yes	No
+86	360	20-25	Male	Others	More than 2 months	Yes	Yes	Yes	Yes	No	Low	No	No	No
+87	463	20-25	Male	Housewife	15-30 days	Yes	Yes	Yes	Yes	Yes	High	No	No	Yes
+88	481	25-30	Female	Business	Go out Every day	No	Yes	Yes	No	Yes	Medium	No	Yes	Yes
+89	3	25-30	Male	Others	1-14 days	Yes	No	Yes	No	Yes	Medium	No	Yes	Yes
+90	118	16-20	Male	Others	More than 2 months	Yes	No	No	Yes	Yes	Low	Yes	No	No
+91	179	20-25	Female	Housewife	15-30 days	Yes	Yes	No	Yes	Yes	Low	Yes	No	Yes
+92	109	16-20	Female	Housewife	Go out Every day	Yes	Yes	Yes	Yes	No	High	Yes	Yes	No
+93	405	16-20	Female	Student	More than 2 months	Yes	Yes	Yes	Yes	No	Medium	Yes	Yes	Yes
+94	519	16-20	Male	Others	31-60 days	Yes	No	Yes	Yes	No	High	Yes	Yes	Yes
+95	375	25-30	Male	Others	15-30 days	No	No	Yes	No	No	High	No	Yes	No
+96	531	20-25	Male	Business	1-14 days	No	Yes	Yes	Yes	Yes	Low	No	No	Yes
+97	661	25-30	Male	Corporate	31-60 days	Yes	Yes	Yes	Yes	Yes	Low	No	Yes	Yes
+98	696	16-20	Female	Student	More than 2 months	Yes	Yes	Yes	Yes	No	Medium	Yes	Yes	No
+99	12	25-30	Male	Others	15-30 days	Yes	Yes	No	Yes	Yes	Medium	No	Yes	No
+100	581	30-Above	Male	Housewife	31-60 days	Yes	No	Yes	Yes	No	Low	Yes	Yes	Yes
+101	478	25-30	Female	Housewife	More than 2 months	Yes	Yes	Yes	Yes	Yes	High	Yes	No	Yes
+102	92	30-Above	Female	Housewife	1-14 days	Yes	Yes	Yes	No	No	Low	Yes	Yes	No
+103	534	30-Above	Female	Corporate	More than 2 months	Yes	Yes	Yes	Yes	Yes	High	No	No	Yes
+104	434	30-Above	Female	Business	31-60 days	No	No	Yes	Yes	Yes	Low	Yes	No	Yes
+105	228	30-Above	Female	Student	31-60 days	Yes	Yes	Yes	Yes	No	Medium	Yes	Yes	No
+106	558	30-Above	Female	Business	More than 2 months	Yes	Yes	Yes	Yes	Yes	Low	No	Yes	Yes
+107	76	30-Above	Female	Housewife	15-30 days	No	No	Yes	No	No	High	No	Yes	Yes
+108	483	20-25	Female	Housewife	31-60 days	Yes	Yes	No	Yes	Yes	Medium	No	Yes	Yes
+109	469	25-30	Male	Business	1-14 days	No	Yes	No	No	Yes	Low	No	Yes	No
+110	114	16-20	Female	Business	15-30 days	Yes	No	Yes	No	Yes	Low	Yes	No	Yes
+111	719	20-25	Male	Others	1-14 days	No	No	Yes	No	Yes	Low	No	Yes	No
+112	336	25-30	Female	Corporate	31-60 days	Yes	Yes	Yes	No	Yes	Low	Yes	No	No
+113	717	30-Above	Male	Business	1-14 days	Yes	No	Yes	No	No	High	Yes	Yes	Yes
+114	755	20-25	Male	Student	More than 2 months	No	Yes	Yes	Yes	Yes	High	Yes	Yes	Yes
+115	618	25-30	Male	Housewife	1-14 days	Yes	Yes	Yes	Yes	Yes	Medium	Yes	No	Yes
+116	46	20-25	Male	Housewife	15-30 days	Yes	No	Yes	No	No	Medium	No	Yes	Yes
+117	578	30-Above	Female	Others	More than 2 months	Yes	Yes	No	No	Yes	Medium	No	No	Yes
+118	314	20-25	Female	Student	31-60 days	No	No	Yes	Yes	Yes	Medium	Yes	Yes	No
+119	419	25-30	Female	Student	Go out Every day	No	No	No	Yes	Yes	Low	Yes	Yes	Yes
+120	740	20-25	Male	Others	Go out Every day	No	Yes	Yes	Yes	No	High	No	Yes	Yes
+121	25	30-Above	Female	Housewife	1-14 days	Yes	Yes	Yes	Yes	Yes	Low	Yes	Yes	Yes
+122	658	20-25	Male	Corporate	15-30 days	Yes	Yes	No	Yes	No	Medium	Yes	Yes	Yes
+123	651	30-Above	Female	Corporate	Go out Every day	Yes	No	No	Yes	Yes	High	Yes	Yes	Yes
+124	17	25-30	Female	Others	More than 2 months	Yes	Yes	Yes	Yes	Yes	Medium	Yes	Yes	Yes
+125	168	20-25	Female	Housewife	Go out Every day	Yes	Yes	Yes	No	Yes	High	No	Yes	Yes
+126	81	30-Above	Female	Corporate	More than 2 months	Yes	No	Yes	No	Yes	Medium	No	No	No
+127	341	25-30	Male	Business	15-30 days	Yes	No	No	Yes	No	Medium	Yes	Yes	Yes
+128	808	30-Above	Female	Others	More than 2 months	Yes	Yes	No	Yes	Yes	Medium	No	No	No
+129	629	30-Above	Male	Corporate	More than 2 months	No	No	Yes	Yes	Yes	Medium	No	Yes	Yes
+130	96	30-Above	Male	Corporate	Go out Every day	Yes	No	Yes	Yes	No	High	No	Yes	Yes
+131	1	30-Above	Male	Others	31-60 days	Yes	Yes	Yes	No	No	High	No	No	Yes
+132	368	30-Above	Male	Student	31-60 days	Yes	Yes	Yes	Yes	No	Low	No	Yes	No
+133	144	25-30	Female	Business	15-30 days	Yes	No	Yes	Yes	No	High	No	No	No
+134	389	20-25	Female	Housewife	More than 2 months	Yes	No	Yes	Yes	Yes	Medium	Yes	No	Yes
+135	107	25-30	Male	Housewife	15-30 days	Yes	Yes	No	No	No	Low	No	Yes	Yes
+136	301	16-20	Male	Business	31-60 days	No	No	Yes	Yes	Yes	High	No	Yes	Yes
+137	140	16-20	Female	Housewife	More than 2 months	No	Yes	No	Yes	Yes	Low	Yes	Yes	Yes
+138	41	30-Above	Female	Corporate	Go out Every day	Yes	Yes	No	Yes	Yes	Low	Yes	No	No
+139	743	16-20	Female	Housewife	Go out Every day	No	Yes	Yes	No	No	Medium	No	Yes	Yes
+140	315	30-Above	Female	Corporate	15-30 days	No	No	Yes	Yes	Yes	High	No	No	No
+141	494	25-30	Male	Corporate	1-14 days	Yes	Yes	No	No	Yes	Low	Yes	Yes	Yes
+142	113	20-25	Male	Student	1-14 days	Yes	Yes	Yes	No	No	Medium	No	Yes	Yes
+143	330	25-30	Female	Others	More than 2 months	No	No	Yes	No	Yes	High	No	Yes	Yes
+144	353	25-30	Female	Business	1-14 days	Yes	No	Yes	No	No	High	Yes	Yes	Yes
+145	197	20-25	Female	Business	1-14 days	Yes	Yes	Yes	No	Yes	Low	No	Yes	Yes
+146	165	25-30	Male	Student	31-60 days	Yes	Yes	Yes	No	Yes	Medium	Yes	No	Yes
+147	496	30-Above	Male	Housewife	More than 2 months	Yes	Yes	No	No	Yes	Low	No	No	Yes
+148	451	25-30	Female	Student	Go out Every day	No	No	Yes	Yes	Yes	Low	No	No	Yes
+149	411	25-30	Female	Student	Go out Every day	Yes	No	Yes	No	Yes	Low	No	Yes	Yes
+150	10	16-20	Male	Others	31-60 days	No	Yes	No	Yes	No	Low	No	Yes	Yes
+151	480	20-25	Female	Student	Go out Every day	Yes	Yes	No	Yes	Yes	Medium	No	Yes	Yes
+152	504	20-25	Male	Housewife	31-60 days	No	Yes	Yes	No	Yes	Low	Yes	Yes	Yes
+153	264	25-30	Female	Business	Go out Every day	No	Yes	Yes	Yes	Yes	High	Yes	Yes	No
+154	630	16-20	Female	Business	Go out Every day	Yes	Yes	Yes	Yes	Yes	Low	No	Yes	Yes
+155	799	25-30	Female	Others	Go out Every day	Yes	No	Yes	No	Yes	High	Yes	Yes	No
+156	564	16-20	Female	Housewife	15-30 days	Yes	Yes	No	No	Yes	High	Yes	Yes	Yes
+157	756	16-20	Male	Corporate	15-30 days	Yes	Yes	Yes	Yes	No	Medium	No	Yes	Yes
+158	577	30-Above	Male	Others	15-30 days	No	Yes	Yes	Yes	No	High	No	Yes	No
+159	176	25-30	Male	Business	Go out Every day	Yes	Yes	No	Yes	No	Low	Yes	Yes	No
+160	53	30-Above	Male	Others	31-60 days	No	Yes	No	Yes	Yes	Low	Yes	Yes	No
+161	52	16-20	Male	Others	More than 2 months	Yes	Yes	Yes	Yes	Yes	Low	Yes	No	No
+162	56	16-20	Male	Student	Go out Every day	Yes	Yes	No	Yes	Yes	High	Yes	Yes	Yes
+163	386	25-30	Male	Student	1-14 days	Yes	Yes	Yes	Yes	Yes	Medium	Yes	Yes	No
+164	406	25-30	Female	Corporate	1-14 days	No	Yes	Yes	No	Yes	Low	No	No	Yes
+165	579	20-25	Male	Others	15-30 days	No	No	Yes	Yes	Yes	Low	Yes	Yes	Yes
+166	747	16-20	Female	Corporate	Go out Every day	No	No	No	Yes	Yes	Medium	No	Yes	No
+167	544	16-20	Male	Student	15-30 days	Yes	Yes	Yes	Yes	No	Low	Yes	Yes	Yes
+168	378	25-30	Female	Corporate	1-14 days	Yes	No	Yes	No	Yes	High	No	No	Yes
+169	432	30-Above	Female	Student	More than 2 months	Yes	No	Yes	Yes	No	High	No	Yes	Yes
+170	35	16-20	Male	Business	31-60 days	Yes	Yes	Yes	No	Yes	Medium	No	Yes	Yes
+171	188	30-Above	Female	Corporate	31-60 days	Yes	Yes	Yes	Yes	Yes	Medium	Yes	Yes	No
+172	705	20-25	Male	Student	31-60 days	Yes	No	Yes	Yes	No	Medium	No	No	No
+173	290	20-25	Male	Business	1-14 days	Yes	Yes	Yes	No	No	High	No	No	Yes
+174	339	30-Above	Male	Business	Go out Every day	Yes	No	Yes	Yes	Yes	High	Yes	Yes	No
+175	385	16-20	Male	Student	Go out Every day	Yes	No	Yes	No	Yes	Low	No	No	Yes
+176	497	20-25	Male	Others	1-14 days	Yes	Yes	Yes	Yes	Yes	Low	No	No	Yes
+177	457	30-Above	Female	Others	15-30 days	No	Yes	Yes	Yes	Yes	Low	No	Yes	Yes
+178	706	16-20	Male	Housewife	1-14 days	No	Yes	Yes	No	No	High	Yes	No	Yes
+179	101	16-20	Male	Corporate	More than 2 months	No	Yes	Yes	Yes	No	High	Yes	Yes	No
+180	546	25-30	Male	Housewife	1-14 days	Yes	Yes	Yes	Yes	No	Low	No	Yes	No
+181	167	20-25	Male	Business	31-60 days	No	Yes	Yes	Yes	No	Low	No	Yes	No
+182	767	20-25	Male	Student	1-14 days	No	No	Yes	No	Yes	High	No	Yes	Yes
+183	230	16-20	Female	Housewife	1-14 days	Yes	Yes	Yes	Yes	No	High	Yes	Yes	Yes
+184	200	16-20	Male	Business	Go out Every day	No	Yes	Yes	Yes	Yes	Low	Yes	Yes	Yes
+185	307	25-30	Female	Others	More than 2 months	Yes	Yes	No	No	Yes	High	Yes	No	Yes
+186	692	25-30	Female	Others	31-60 days	No	No	Yes	Yes	Yes	High	Yes	Yes	No
+187	599	20-25	Female	Student	15-30 days	No	Yes	Yes	No	No	High	Yes	Yes	No
+188	374	20-25	Female	Corporate	31-60 days	Yes	No	Yes	Yes	Yes	Low	No	Yes	Yes
+189	709	30-Above	Female	Business	31-60 days	No	Yes	Yes	Yes	Yes	Medium	Yes	Yes	Yes
+190	247	16-20	Female	Corporate	More than 2 months	Yes	Yes	Yes	No	Yes	Low	Yes	Yes	Yes
+191	7	25-30	Female	Student	1-14 days	Yes	No	Yes	Yes	Yes	High	No	No	Yes
+192	724	25-30	Female	Corporate	31-60 days	Yes	Yes	No	Yes	No	Low	No	Yes	No
+193	672	20-25	Male	Housewife	Go out Every day	Yes	Yes	Yes	Yes	Yes	Medium	Yes	No	Yes
+194	297	20-25	Female	Corporate	More than 2 months	Yes	Yes	Yes	Yes	No	High	Yes	Yes	No
+195	325	25-30	Female	Business	Go out Every day	Yes	Yes	Yes	No	Yes	High	Yes	No	No
+196	551	16-20	Male	Business	More than 2 months	No	Yes	Yes	No	No	High	Yes	No	Yes
+197	135	30-Above	Male	Student	Go out Every day	Yes	Yes	Yes	No	No	Medium	Yes	Yes	Yes
+198	20	30-Above	Female	Housewife	Go out Every day	No	Yes	No	No	Yes	Medium	Yes	Yes	Yes
+199	659	16-20	Male	Corporate	Go out Every day	No	Yes	No	Yes	Yes	Low	Yes	No	Yes
+200	319	16-20	Male	Housewife	15-30 days	Yes	Yes	No	No	Yes	Low	Yes	Yes	Yes
+201	40	30-Above	Female	Business	31-60 days	No	No	Yes	No	No	Low	Yes	No	Yes
+202	214	25-30	Male	Corporate	31-60 days	No	Yes	No	Yes	Yes	High	Yes	No	No
+203	440	30-Above	Female	Business	15-30 days	Yes	Yes	Yes	Yes	Yes	Medium	No	No	Yes
+204	686	16-20	Male	Business	31-60 days	No	No	No	No	Yes	Low	Yes	No	No
+205	14	30-Above	Female	Housewife	1-14 days	No	No	No	Yes	Yes	Medium	No	No	Yes
+206	493	16-20	Male	Student	15-30 days	Yes	No	No	Yes	No	High	No	Yes	Yes
+207	61	25-30	Male	Corporate	15-30 days	Yes	Yes	No	No	Yes	Medium	Yes	Yes	No
+208	318	25-30	Female	Housewife	Go out Every day	No	No	No	No	Yes	High	No	Yes	Yes
+209	490	20-25	Male	Others	1-14 days	Yes	Yes	Yes	No	Yes	Low	Yes	No	Yes
+210	379	25-30	Female	Others	15-30 days	Yes	No	Yes	No	No	High	Yes	Yes	Yes
+211	169	30-Above	Male	Corporate	15-30 days	Yes	Yes	No	No	Yes	High	Yes	Yes	No
+212	814	16-20	Female	Housewife	Go out Every day	Yes	Yes	Yes	No	No	Medium	No	No	No
+213	426	20-25	Male	Housewife	Go out Every day	No	Yes	Yes	No	No	High	No	Yes	Yes
+214	429	30-Above	Male	Student	15-30 days	Yes	Yes	Yes	Yes	No	Medium	No	Yes	Yes
+215	751	16-20	Male	Student	More than 2 months	Yes	Yes	Yes	Yes	No	Low	No	No	Yes
+216	530	16-20	Male	Student	1-14 days	Yes	Yes	Yes	No	Yes	Medium	No	No	Yes
+217	817	20-25	Male	Student	More than 2 months	Yes	Yes	Yes	No	Yes	Medium	Yes	Yes	Yes
+218	396	16-20	Female	Corporate	1-14 days	Yes	Yes	No	No	Yes	Low	Yes	Yes	No
+219	219	16-20	Female	Student	31-60 days	Yes	Yes	No	No	No	Medium	No	No	Yes
+220	485	16-20	Female	Student	Go out Every day	No	Yes	Yes	Yes	Yes	Low	No	No	Yes
+221	818	16-20	Male	Corporate	31-60 days	No	No	Yes	Yes	Yes	Medium	Yes	No	Yes
+222	758	20-25	Male	Business	15-30 days	No	Yes	No	Yes	Yes	Medium	No	Yes	Yes
+223	538	20-25	Male	Business	More than 2 months	Yes	Yes	Yes	No	No	Medium	Yes	Yes	Yes
+224	466	25-30	Male	Student	1-14 days	Yes	No	No	Yes	Yes	Medium	No	Yes	Yes
+225	414	30-Above	Male	Housewife	15-30 days	Yes	No	Yes	Yes	Yes	Low	No	Yes	Yes
+226	349	30-Above	Female	Others	More than 2 months	No	No	Yes	Yes	No	Low	No	Yes	Yes
+227	175	20-25	Male	Others	Go out Every day	No	Yes	Yes	Yes	No	Low	Yes	Yes	Yes
+228	452	20-25	Female	Business	More than 2 months	No	Yes	Yes	Yes	No	High	Yes	Yes	Yes
+229	88	25-30	Male	Others	15-30 days	Yes	Yes	Yes	Yes	Yes	High	No	No	Yes
+230	335	16-20	Female	Business	1-14 days	Yes	Yes	Yes	Yes	Yes	High	Yes	Yes	Yes
+231	21	16-20	Male	Housewife	15-30 days	No	Yes	No	Yes	No	High	No	Yes	No
+232	584	25-30	Female	Others	15-30 days	Yes	Yes	No	Yes	No	Low	No	No	Yes
+233	94	25-30	Female	Others	31-60 days	No	Yes	Yes	Yes	No	Medium	No	No	Yes
+234	221	25-30	Female	Corporate	More than 2 months	No	Yes	No	Yes	Yes	Medium	Yes	Yes	No
+235	162	16-20	Female	Housewife	31-60 days	Yes	Yes	Yes	No	Yes	High	Yes	Yes	No
+236	384	20-25	Male	Corporate	15-30 days	Yes	No	No	Yes	Yes	High	Yes	Yes	Yes
+237	501	20-25	Female	Housewife	Go out Every day	Yes	Yes	Yes	Yes	No	Medium	Yes	Yes	Yes
+238	213	16-20	Female	Housewife	Go out Every day	Yes	Yes	Yes	Yes	No	Medium	No	No	Yes
+239	47	25-30	Female	Student	More than 2 months	Yes	No	No	Yes	Yes	Medium	No	No	Yes
+240	31	30-Above	Female	Corporate	Go out Every day	Yes	Yes	No	Yes	Yes	Medium	No	No	Yes
+241	567	25-30	Female	Student	1-14 days	Yes	Yes	No	Yes	Yes	High	Yes	No	Yes
+242	615	16-20	Female	Business	31-60 days	Yes	No	No	Yes	No	Medium	Yes	No	No
+243	391	30-Above	Male	Housewife	31-60 days	Yes	Yes	Yes	Yes	No	Medium	Yes	Yes	Yes
+244	328	30-Above	Female	Student	More than 2 months	Yes	Yes	Yes	No	Yes	Low	Yes	No	Yes
+245	588	20-25	Female	Housewife	More than 2 months	Yes	Yes	No	Yes	No	High	Yes	Yes	No
+246	506	25-30	Female	Housewife	15-30 days	No	Yes	Yes	Yes	Yes	Medium	No	No	No
+247	143	30-Above	Female	Student	15-30 days	Yes	Yes	Yes	No	Yes	Medium	No	No	No
+248	102	20-25	Female	Corporate	More than 2 months	Yes	Yes	Yes	No	Yes	Medium	Yes	Yes	Yes
+249	270	16-20	Female	Others	15-30 days	No	Yes	No	Yes	No	Low	Yes	No	Yes
+250	238	25-30	Male	Others	1-14 days	No	No	Yes	Yes	Yes	High	Yes	Yes	No
+251	204	25-30	Male	Corporate	1-14 days	Yes	Yes	No	Yes	Yes	High	Yes	Yes	Yes
+252	517	25-30	Male	Housewife	1-14 days	Yes	No	Yes	No	Yes	Medium	No	No	Yes
+253	244	16-20	Female	Student	15-30 days	No	Yes	No	Yes	No	Low	No	Yes	No
+254	815	30-Above	Female	Others	1-14 days	Yes	Yes	Yes	Yes	Yes	Medium	Yes	Yes	No
+255	127	20-25	Female	Business	More than 2 months	Yes	No	Yes	Yes	No	Medium	Yes	Yes	No
+256	601	25-30	Female	Others	1-14 days	No	Yes	Yes	Yes	No	Medium	Yes	No	Yes
+257	134	16-20	Male	Housewife	More than 2 months	Yes	Yes	No	No	No	Low	Yes	Yes	No
+258	557	25-30	Female	Student	15-30 days	Yes	No	Yes	Yes	Yes	High	No	No	Yes
+259	748	30-Above	Female	Student	More than 2 months	Yes	Yes	Yes	No	No	Medium	No	Yes	Yes
+260	632	30-Above	Male	Others	Go out Every day	No	No	Yes	No	Yes	Low	No	Yes	Yes
+261	82	16-20	Female	Student	15-30 days	Yes	Yes	Yes	Yes	Yes	High	No	No	Yes
+262	192	20-25	Female	Business	15-30 days	Yes	Yes	No	No	Yes	Medium	Yes	No	Yes
+263	296	25-30	Female	Corporate	31-60 days	No	Yes	Yes	Yes	Yes	Medium	Yes	Yes	Yes
+264	495	30-Above	Male	Corporate	More than 2 months	No	Yes	Yes	No	Yes	Medium	Yes	No	No
+265	684	16-20	Female	Business	Go out Every day	Yes	Yes	Yes	Yes	Yes	Low	No	Yes	Yes
+266	625	25-30	Female	Others	15-30 days	No	No	Yes	Yes	Yes	Low	Yes	Yes	Yes
+267	761	20-25	Female	Student	Go out Every day	Yes	Yes	No	Yes	Yes	Medium	Yes	No	No
+268	502	20-25	Male	Others	1-14 days	Yes	No	Yes	Yes	No	Low	Yes	Yes	Yes
+269	33	20-25	Female	Business	15-30 days	Yes	Yes	No	No	No	Low	No	No	No
+270	433	16-20	Female	Housewife	Go out Every day	Yes	Yes	Yes	No	Yes	Low	Yes	Yes	No
+271	16	16-20	Female	Student	1-14 days	Yes	Yes	Yes	No	Yes	Medium	No	No	No
+272	308	30-Above	Male	Corporate	1-14 days	No	Yes	Yes	Yes	No	Medium	No	Yes	Yes
+273	763	20-25	Male	Student	Go out Every day	Yes	Yes	No	Yes	Yes	High	No	No	Yes
+274	669	20-25	Female	Others	More than 2 months	No	Yes	Yes	No	No	Medium	No	No	No
+275	337	20-25	Female	Corporate	1-14 days	Yes	No	Yes	Yes	No	High	No	Yes	No
+276	509	20-25	Female	Housewife	1-14 days	Yes	Yes	No	Yes	No	Medium	No	Yes	Yes
+277	515	30-Above	Female	Corporate	1-14 days	Yes	No	Yes	Yes	Yes	High	Yes	No	No
+278	321	25-30	Male	Housewife	15-30 days	Yes	No	Yes	Yes	No	Medium	No	Yes	No
+279	413	30-Above	Male	Corporate	1-14 days	No	Yes	Yes	Yes	Yes	Medium	Yes	No	Yes
+280	732	20-25	Male	Business	31-60 days	Yes	Yes	Yes	Yes	No	Low	Yes	Yes	Yes
+281	373	25-30	Female	Business	Go out Every day	Yes	No	Yes	Yes	No	Medium	Yes	No	No
+282	240	16-20	Female	Others	1-14 days	Yes	Yes	No	Yes	Yes	High	Yes	Yes	No
+283	226	25-30	Male	Corporate	Go out Every day	Yes	No	No	Yes	No	Medium	No	No	Yes
+284	633	20-25	Male	Business	1-14 days	Yes	No	Yes	Yes	Yes	High	No	Yes	Yes
+285	310	30-Above	Female	Housewife	31-60 days	Yes	No	Yes	No	Yes	Low	Yes	Yes	Yes
+286	50	25-30	Female	Student	15-30 days	Yes	Yes	Yes	Yes	Yes	High	Yes	No	No
+287	425	20-25	Male	Corporate	15-30 days	Yes	Yes	No	Yes	Yes	Medium	Yes	No	Yes
+288	209	30-Above	Female	Business	31-60 days	No	No	Yes	Yes	No	Low	Yes	Yes	Yes
+289	399	30-Above	Female	Corporate	1-14 days	Yes	Yes	Yes	No	Yes	Low	No	No	Yes
+290	63	16-20	Male	Student	Go out Every day	Yes	Yes	No	Yes	Yes	High	Yes	Yes	Yes
+291	559	30-Above	Male	Others	Go out Every day	No	Yes	No	No	Yes	Medium	No	No	Yes
+292	789	20-25	Male	Business	31-60 days	No	Yes	No	Yes	Yes	High	Yes	No	No
+293	206	25-30	Male	Housewife	Go out Every day	Yes	Yes	No	Yes	No	High	No	No	Yes
+294	639	16-20	Female	Others	1-14 days	Yes	Yes	Yes	No	No	Medium	Yes	Yes	No
+295	400	20-25	Male	Housewife	More than 2 months	Yes	No	No	No	Yes	Medium	Yes	Yes	No
+296	382	30-Above	Female	Others	1-14 days	Yes	Yes	Yes	Yes	Yes	Medium	No	Yes	No
+297	149	25-30	Female	Student	Go out Every day	Yes	Yes	Yes	Yes	Yes	High	Yes	Yes	No
+298	477	25-30	Male	Others	Go out Every day	No	Yes	No	Yes	No	Medium	No	Yes	Yes
+299	303	25-30	Female	Others	31-60 days	Yes	Yes	Yes	Yes	Yes	High	Yes	Yes	No
